@@ -46,7 +46,7 @@ a{
     margin-top:0px;
     position: fixed;
     background:#001f3f;
-    /*opacity: 0.8;*/
+    /*opacity: 0.7;*/
     width:100%;   
 }
 
@@ -156,6 +156,7 @@ ul li
 }
 .p1,.p2,.p3,.p4,.p5,.p6{
   font-family: 'Indie Flower', cursive;
+  color:white;
 }
 
 
